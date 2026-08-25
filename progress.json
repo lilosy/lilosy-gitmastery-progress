@@ -86,5 +86,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787654056.864508,
+    "completed_at": 1787654058.997481,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
